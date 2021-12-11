@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/flagaijo" target="blank"><img src="https://img.shields.io/twitter/follow/flagaijo?logo=twitter&style=for-the-badge" alt="flagaijo" /></a> </p>
 
-- 🔭 Estou atualmente trabalhando no [Laboratório PET](https://petcomputacao.paginas.ufsc.br/)
+- 🔭 Estou atualmente trabalhando no [Laboratório LABSEC](https://labsec.ufsc.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
