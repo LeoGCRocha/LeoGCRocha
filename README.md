@@ -5,7 +5,7 @@
 
 - 🌱 Estou atualmente estudando **React & Springboot**
 
-- 💬 Áreas de interesse **Java, Python, C++, Algoritmos, Estrutura de Dados...**
+- 💬 Áreas de interesse **Java, Python, C++, GoLang, Node, Algoritmos, Estrutura de Dados, Blockchain...**
 
 - 📫 Fale comigo **leogcrocha@gmail.com**
 
