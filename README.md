@@ -9,7 +9,7 @@
 
 - 📫 Fale comigo **leogcrocha@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-rocha-9806501b9/](https://www.linkedin.com/in/leonardo-rocha-9806501b9/)
+- 📄 Saiba sobre minhas experiências [https://www.linkedin.com/in/leonardo-rocha-9806501b9/](https://www.linkedin.com/in/leonardo-rocha-9806501b9/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
