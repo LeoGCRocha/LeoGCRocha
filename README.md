@@ -83,9 +83,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=leogcrocha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -93,14 +91,3 @@
 <br/>  
 
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=0bga9xd57s1jq9uugbt5mxoad&cover_image=false&theme=default" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
